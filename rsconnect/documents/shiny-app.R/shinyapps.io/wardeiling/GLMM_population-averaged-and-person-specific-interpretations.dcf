@@ -1,0 +1,12 @@
+name: GLMM_population-averaged-and-person-specific-interpretations
+title: GLMM_population-averaged-and-person-specific-interpretations
+username: wardeiling
+account: wardeiling
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13745862
+bundleId: 9662439
+url: https://wardeiling.shinyapps.io/GLMM_population-averaged-and-person-specific-interpretations/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
