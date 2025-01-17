@@ -1,7 +1,7 @@
 # Population-Averaged vs. Subject-Specific Effects: GLMM and MLM
 
 ## Overview
-This Shiny app allows you to explore and visualize the differences between population-averaged (PA) and subject-specific (SS) effects in Generalized Linear Mixed Models (GLMMs) and Mixed Linear Models (MLMs). It lets you interactively adjust model parameters and view how fixed and random effects influence predictions.
+This Shiny app, published at [https://wardeiling.shinyapps.io/GLMM_population-averaged-and-person-specific-interpretations/](https://wardeiling.shinyapps.io/GLMM_population-averaged-and-person-specific-interpretations/), allows you to explore and visualize the differences between population-averaged (PA) and subject-specific (SS) effects in Generalized Linear Mixed Models (GLMMs) and Mixed Linear Models (MLMs). It lets you interactively adjust model parameters and view how fixed and random effects influence predictions.
 
 ## Features
 - Interactive exploration of GLMMs and MLMs with continuous and binary predictors.
